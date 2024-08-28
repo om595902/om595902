@@ -21,7 +21,7 @@
 </ul>
     </td>
     <td>
-     <img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
+     <img src="[URL_OF_YOUR_ANIMATED_IMAGE](https://cdn.dribbble.com/users/2585799/screenshots/6555657/__2_3_____.gif)" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
     </td>
   </tr>
 </table>
