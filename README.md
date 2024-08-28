@@ -5,7 +5,13 @@
   
 </p>
 
-<ul>
+
+
+
+<table>
+  <tr>
+    <td>
+     <ul>
   <li>Design and analysis of information and service systems</li>
   <li>API development</li>
   <li>Database design and management</li>
@@ -13,9 +19,12 @@
   <li>Website development</li>
   <li>Smartphone application development</li>
 </ul>
-<img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
-
-
+    </td>
+    <td>
+     <img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
