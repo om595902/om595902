@@ -11,20 +11,23 @@
 <table>
   <tr>
     <td>
-     <ul>
-  <li>Design and analysis of information and service systems</li>
-  <li>API development</li>
-  <li>Database design and management</li>
-  <li>Setting up and managing servers</li>
-  <li>Website development</li>
-  <li>Smartphone application development</li>
-</ul>
+      <ul>
+        <li>Design and analysis of information and service systems</li>
+        <li>API development</li>
+        <li>Database design and management</li>
+        <li>Setting up and managing servers</li>
+        <li>Website development</li>
+        <li>Smartphone application development</li>
+      </ul>
     </td>
     <td>
-     <img src="[URL_OF_YOUR_ANIMATED_IMAGE](https://cdn.dribbble.com/users/2585799/screenshots/6555657/__2_3_____.gif)" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
+      <img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?ga=GA1.1.1548915153.1701799208&semt=ais_hybrid" 
+           alt="Coding Illustration" 
+           style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
     </td>
   </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
