@@ -2,7 +2,7 @@
 <h3 align="center">I Full stack development and have a bachelor's degree in computer science</h3>
 <p align="left">
   🔭 Technical capabilities
-  <img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
+  
 </p>
 
 <ul>
@@ -13,6 +13,7 @@
   <li>Website development</li>
   <li>Smartphone application development</li>
 </ul>
+<img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
 
 
 
