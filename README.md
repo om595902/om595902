@@ -23,7 +23,7 @@
     <td>
       <img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?ga=GA1.1.1548915153.1701799208&semt=ais_hybrid" 
            alt="Coding Illustration" 
-           style="vertical-align: middle; width: 10; height: 10; filter: sepia(30%) saturate(150%) hue-rotate(-10deg);" />
+           style="vertical-align: middle; width: 10; height: 10; filter: sepia(10%) saturate(10%) hue-rotate(-10deg);" />
     </td>
   </tr>
 </table>
