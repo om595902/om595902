@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-Sharjabi</h1>
 <h3 align="center">I Full stack development and have a bachelor's degree in computer science</h3>
 
-- 🔭 Technical capabilities **Design and analysis of information and service systems API development. Database design and management. Setting up and managing servers. Website development. Smart phone application development.**
+- 🔭 Technical capabilities
+-  **Design and analysis of information and service systems API development. Database design and management. Setting up and managing servers. Website development. Smart phone application development.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om595902&label=Profile%20views&color=0e75b6&style=flat" alt="om595902" /> </p>
 
