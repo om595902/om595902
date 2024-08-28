@@ -2,14 +2,17 @@
 <h3 align="center">I Full stack development and have a bachelor's degree in computer science</h3>
 <p align="left">
   🔭 Technical capabilities
+  <img src="URL_OF_YOUR_ANIMATED_IMAGE" alt="Animated Image" style="vertical-align: middle; width: YOUR_DESIRED_WIDTHpx; height: YOUR_DESIRED_HEIGHTpx;" />
 </p>
 
-- Design and analysis of information and service systems
-- API development.
-- Database design and management.
-- Setting up and managing servers.
-- Website development.
-- Smart phone application development.
+<ul>
+  <li>Design and analysis of information and service systems</li>
+  <li>API development</li>
+  <li>Database design and management</li>
+  <li>Setting up and managing servers</li>
+  <li>Website development</li>
+  <li>Smartphone application development</li>
+</ul>
 
 
 
